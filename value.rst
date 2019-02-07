@@ -1,2 +1,2 @@
-Value
-=====
+Value Propositions
+==================
