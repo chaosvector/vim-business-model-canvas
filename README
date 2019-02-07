@@ -1,0 +1,7 @@
+Business Model Canvas
+=====================
+
+A template session for the BMC in vim.
+Each cell is stored in a single file,
+the vim session displays them in the typical
+BMC grid.
