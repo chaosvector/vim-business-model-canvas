@@ -1,6 +1,6 @@
 # Business Model Canvas for Vim
 
-Enjoy iterating your kick-ass business model in your favorite text editor.
+Enjoy iterating your kickass business model in your favorite text editor.
 
 > This is my first (usefull) public repository on github. Feedback is much appreciated.
 
@@ -10,18 +10,18 @@ Translation of the [*Business Model Canvas*](https://en.wikipedia.org/wiki/Busin
 [Strategyzer](https://www.strategyzer.com/canvas/business-model-canvas)
 into a ``vim session``, ready for crunch time. Starting ``vim`` with the session
 ``bmc.vim`` tiles the editor into the well-known layout of the *Business Model
-Canvas*. Each split contains a file corresponding to an element of the model. 
-All files located in the same directory belong to the model.
+Canvas*. Each tile contains a file corresponding to an element of the model. 
+The files grouped under the same directory belong to the same model.
 
-![screenshot](https://github.com/chaosvector/chaosvector.github.io/blob/master/img/screenshot.png)
+![screenshot](https://chaosvector.github.io/img/screenshot.png)
 
 
 ## Features
 
 - Setup a *Business Model Canvas* from scratch starting with the template.
-- Edit your modified Business Model any time in the grid layout.
-- Keep your Model under the version control of your choice. Go crazy and come back like it should be.
-- Iterate superfast with your wizardly team of highly trained monkeys from close and from afar.
+- Edit your modified Business Model any time in the battle prooven grid layout or each element indiviually.
+- Keep your Model under the version control of your choice. Go crazy and come back just like how it should be.
+- Iterate superfast with your wizardly team of highly trained monkeys from close and afar.
 - Free up that whiteboard for more relevant doodles.
 
 
