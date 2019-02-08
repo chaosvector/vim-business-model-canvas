@@ -23,28 +23,28 @@ set nowrap
 " Setup the window layout
 
 " Key Partners
-edit partners
+edit partners.md
 
 " Key Activities
-vertical split activities
+vertical split activities.md
 " Key Resources
-split resources
+split resources.md
 
 " Value Propositions
-botright vertical split value
+botright vertical split value.md
 
 " Customer Relationships
-vertical split relationships
+vertical split relationships.md
 " Channels
-split channels
+split channels.md
 
 " Customer Segments
-botright vertical split segments
+botright vertical split segments.md
 
 " Cost Structure
-botright split costs
+botright split costs.md
 " Revenue Stream
-vertical split revenues
+vertical split revenues.md
 
 " Spread windows equally across screen
 wincmd =
