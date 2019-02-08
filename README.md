@@ -1,25 +1,23 @@
-# Business Model Canvas for Vim
+# [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) for [Vim](https://github.com/neovim/neovim)
 
-Enjoy iterating your kick-ass business model in your favorite text editor.
+Enjoy iterating your kick-ass business model in your [favorite text editor](https://github.com/neovim/neovim).
 
 > This is my first (usefull) public repository on github. Feedback is much appreciated.
 
 ## Description
 
-Translation of the [*Business Model Canvas*](https://en.wikipedia.org/wiki/Business_Model_Canvas) from 
-[Strategyzer](https://www.strategyzer.com/canvas/business-model-canvas)
-into a ``vim session``, ready for crunch time. Starting ``vim`` with the session
-``bmc.vim`` tiles the editor into the well-known layout of the *Business Model
-Canvas*. Each tile contains a file corresponding to an element of the model. 
-The files grouped under the same directory belong to the same model.
+The famous [*Business Model Canvas*](https://en.wikipedia.org/wiki/Business_Model_Canvas) available in a single ``vim session``, ready made for crunch time. Starting ``vim`` with the option
+``-S bmc.vim`` sets up your editor to the well-known layout of the *Business Model
+Canvas*. Each window contains a [markdown](https://daringfireball.net/projects/markdown/) file corresponding to an element of the model. The files grouped under the same directory belong to the same model.
 
 ![screenshot](https://chaosvector.github.io/img/screenshot.png)
+Screenshot: A virgin ``nvim -S bmc.vim`` session running in the amazing [Alacritty](https://github.com/jwilm/alacritty).
 
 
 ## Features
 
 - Setup a *Business Model Canvas* from scratch starting with the template.
-- Edit your modified Business Model any time in the battle prooven grid layout or each element indiviually.
+- Edit your modified Business Model any time in the battle prooven grid layout or each element individually.
 - Keep your Model under the version control of your choice. Go crazy and come back just like how it should be.
 - Iterate superfast with your wizardly team of highly trained monkeys from close and afar.
 - Free up that whiteboard for more relevant doodles.
@@ -27,14 +25,15 @@ The files grouped under the same directory belong to the same model.
 
 ## Basic Usage:
 
-- Clone this repository ``git clone https://github.com/chaosvector/business-model-canvas-for-vim.git``
-- To edit your BMC startup vim with the session command ``vim -S bmc.vim`` (tested in NeoVim)
-- To save your changes to any Element of the Model type ``:wa``
-- To quit your BMC ``:qa``
+1) Clone this repository ``git clone https://github.com/chaosvector/business-model-canvas-for-vim.git``
+2) Edit your Business Model Canvas by loading the vim ``bmc.vim`` session like ``vim -S bmc.vim``
+3) Save your changes to all Elements of the Model with ``:wa``
+4) Quit editing the Model with ``:qa``
+5) Continue working on your Model by just loading the vim session again (step 2). You are at your latest change. 
 
-Anything else is in the hands of your vim mastery...
+Anything else lies in the hands of your vim mastery. Happy iterating!
 
 
 ## Credits
 
-- Thanks to [Strategyzer](https://www.strategyzer.com/canvas/business-model-canvas) for their famous template of the *Business Model Canvas*.
+- [1] Thanks to [Strategyzer](https://www.strategyzer.com/canvas/business-model-canvas) for their amazing template.
