@@ -52,3 +52,9 @@ Anything else lies in the hands of your vim mastery. Happy iterating!
 - [1] Thanks to
   [Strategyzer](https://www.strategyzer.com/canvas/business-model-canvas) for
   their amazing template.
+
+## License
+
+![copyleft](https://licensebuttons.net/l/by-sa/3.0/de/88x31.png)
+
+- CC BY-SA 4.0
