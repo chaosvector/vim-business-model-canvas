@@ -50,3 +50,5 @@ vertical split revenues.md
 wincmd =
 
 " TODO: Place cursor on upper right/last position
+wincmd h
+wincmd k
