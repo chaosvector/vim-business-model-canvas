@@ -44,7 +44,9 @@ botright vertical split segments
 " Cost Structure
 botright split costs
 " Revenue Stream
-vertical split revenue
+vertical split revenues
 
 " Spread windows equally across screen
 wincmd =
+
+" TODO: Place cursor on upper right/last position
