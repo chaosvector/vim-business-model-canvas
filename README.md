@@ -1,6 +1,6 @@
 # Business Model Canvas for Vim
 
-Enjoy iterating your kickass business model in your favorite text editor.
+Enjoy iterating your kick-ass business model in your favorite text editor.
 
 > This is my first (usefull) public repository on github. Feedback is much appreciated.
 
@@ -33,3 +33,8 @@ The files grouped under the same directory belong to the same model.
 - To quit your BMC ``:qa``
 
 Anything else is in the hands of your vim mastery...
+
+
+## Credits
+
+- Thanks to [Strategyzer](https://www.strategyzer.com/canvas/business-model-canvas) for their famous template of the *Business Model Canvas*.
