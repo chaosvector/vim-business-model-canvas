@@ -13,7 +13,7 @@ into a ``vim session``, ready for crunch time. Starting ``vim`` with the session
 Canvas*. Each split contains a file corresponding to an element of the model. 
 All files located in the same directory belong to the model.
 
-[](file:///Volumes/HDD/Playground/business-model-canvas/screenshot.png)
+![screenshot](https://github.com/chaosvector/chaosvector.github.io/blob/master/img/screenshot.png)
 
 
 ## Features
