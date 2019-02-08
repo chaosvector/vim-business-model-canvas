@@ -14,12 +14,6 @@
 " - To quit your BMC type ``:qa``
 "
 
-" Turn of line numbers in each window (free up space)
-set nonumber
-
-" Turn line wrapping of (looks bad in narrow windows)
-set nowrap
-
 " Setup the window layout
 
 " Key Partners
@@ -46,9 +40,16 @@ botright split costs.md
 " Revenue Stream
 vertical split revenues.md
 
+
+" Turn of line numbers in each window (free up space)
+windo setlocal nonumber
+
+" Turn line wrapping of (looks bad in narrow windows)
+windo setlocal nowrap
+
 " Spread windows equally across screen
 wincmd =
 
-" TODO: Place cursor on upper right/last position
+" TODO: Place cursor on upper right window
 wincmd h
 wincmd k
