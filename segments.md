@@ -10,6 +10,6 @@
 - Nice Market
 - Segmented
 - Diversified
-- Multi-Sided Plattform
+- Multi-sided Plattform
 
 

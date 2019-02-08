@@ -1,9 +1,9 @@
 # Key Partners
 
-- Who are your key partners?
-- Who are your key suppliers?
-- Which key resources are we acquiring from partners?
-- Which key Activities do partners perform?
+- Who are your Key Partners?
+- Who are your Key Suppliers?
+- Which Key Resources are we acquiring from partners?
+- Which Key Activities do partners perform?
 
 
 ## Motivations for Partnerships

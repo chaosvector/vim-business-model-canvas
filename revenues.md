@@ -4,14 +4,14 @@
 - For what do they currently pay?
 - How are they currently paying?
 - How would they prefer to pay?
-- How much does each Revenue Stream contribute to overall revenue?
+- How much does each Revenue Stream contribute to overall revenues?
 
 
 ## Types
 
 - Asset sale
 - Usage fee
-- Subscription fees
+- Subscription Fees
 - Lending/Renting/Leasing
 - Licensing
 - Brokerage fees
@@ -22,7 +22,7 @@
 
 - List Price
 - Product feature dependent
-- Customer Segment dependent
+- Customer segment dependent
 - Volume dependent
 
 
