@@ -1,4 +1,4 @@
-# [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) for [Vim](https://github.com/neovim/neovim)
+# The [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) for [Vim](https://github.com/neovim/neovim)
 
 Enjoy iterating your kick-ass business model in your [favorite text editor](https://github.com/neovim/neovim).
 
@@ -17,7 +17,7 @@ Screenshot: A virgin ``nvim -S bmc.vim`` session running in the amazing [Alacrit
 ## Features
 
 - Setup a *Business Model Canvas* from scratch starting with the template.
-- Edit your modified Business Model any time in the battle prooven grid layout or each element individually.
+- Edit your modified Business Model any time in the battle proven grid layout or each element individually.
 - Keep your Model under the version control of your choice. Go crazy and come back just like how it should be.
 - Iterate superfast with your wizardly team of highly trained monkeys from close and afar.
 - Free up that whiteboard for more relevant doodles.
