@@ -9,7 +9,7 @@ Enjoy iterating your kick-ass Business Model in your [favorite text editor](http
 
 The famous
 [*Business Model Canvas*](https://en.wikipedia.org/wiki/Business_Model_Canvas)
-available in a single ``vim session``, ready made for crunch time. Starting
+adapted as a single ``vim session``, ready made for crunch time. Starting
 ``vim`` with the option ``-S bmc.vim`` sets up your editor to the well-known
 layout of the *Business Model Canvas*. Each window contains a
 [markdown](https://daringfireball.net/projects/markdown/) file corresponding
@@ -47,15 +47,18 @@ A virgin ``nvim -S bmc.vim`` session running in the amazing
 Anything else lies in the hands of your vim mastery. Happy iterating!
 
 
-## Credits
+## Attribution
 
-- [1] Thanks to
-  [Strategyzer](https://www.strategyzer.com/canvas/business-model-canvas) for
-  their amazing template.
+- Thanks to
+  [Strategyzer](https://www.strategyzer.com/canvas/business-model-canvas) and
+  the "Business Model Foundry AG" for their template of "The Business Model
+  Canvas", licensed under the Creative Commons Attribution-Share Alike 3.0
+  Unported License.
+
 
 ## Licenses
 
-* [Creative Commons Attribution-Share Alike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) ![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)
+* [Creative Commons Attribution-Share Alike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
 * [MIT License](vim-business-model-canvas/LICENSE)
 
 
