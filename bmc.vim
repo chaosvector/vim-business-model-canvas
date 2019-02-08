@@ -31,7 +31,7 @@ vertical split activities.md
 split resources.md
 
 " Value Propositions
-botright vertical split value.md
+botright vertical split values.md
 
 " Customer Relationships
 vertical split relationships.md
