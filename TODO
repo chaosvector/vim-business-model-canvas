@@ -1,4 +1,2 @@
-* Refine Readme
-* Choose a license
-* Upload to github
-* Turn this into a real vim plugin
+* Add semantic versioning and changelog
+* Turn this into an actual vim plugin
