@@ -55,6 +55,6 @@ Anything else lies in the hands of your vim mastery. Happy iterating!
 
 ## License
 
-![copyleft](https://licensebuttons.net/l/by-sa/3.0/de/88x31.png)
+![copyleft](https://licensebuttons.net/l/by-sa/3.0/de/88x15.png)
 
-This work is licensed under the [Creative Commons Attribution-Share Alike 4.0 Unported Licence 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+This work is licensed under a [Creative Commons Attribution-Share Alike 4.0 International Licence (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
