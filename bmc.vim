@@ -47,9 +47,10 @@ windo setlocal nonumber
 " Turn line wrapping of (looks bad in narrow windows)
 windo setlocal nowrap
 
-" Spread windows equally across screen
-wincmd =
-
 " TODO: Place cursor on upper right window
 wincmd h
 wincmd k
+
+" Spread windows equally across screen
+wincmd =
+
